@@ -90,16 +90,21 @@ analisisDataset/
 ### 👤 Penulis
 
 Nama: Dhafa Zaidan Ahnaf
+
 NPM: 2310631170073
+
 Program Studi: Informatika, Universitas Singaperbangsa Karawang
+
 Mata Kuliah: Komputer & Masyarakat
+
 Dosen Pengampu: Rini Mayasari, M.kom
 
 ---
 
 ### 🔗 Repositori
 
-**[📦 GitHub Repository]([https://data.go.id](https://github.com/dhafazaidan/analisisDataset-Komas-SMP-Komputer))**
+**[📦 GitHub Repository]([https://github.com/dhafazaidan/analisisDataset-Komas-SMP-Komputer])**
+
 
 
 
