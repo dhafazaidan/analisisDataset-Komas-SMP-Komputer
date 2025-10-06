@@ -19,6 +19,7 @@ Proyek ini menggunakan **Python** sebagai alat analisis data untuk mengolah, mem
 ---
 
 ## 🧩 Struktur Direktori Proyek
+```text
 analisisDataset/
 │
 ├── data/
@@ -43,6 +44,7 @@ analisisDataset/
 ├── .env
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
@@ -104,6 +106,7 @@ Dosen Pengampu: Rini Mayasari, M.kom
 ### 🔗 Repositori
 
 **[📦 GitHub Repository]([https://github.com/dhafazaidan/analisisDataset-Komas-SMP-Komputer])**
+
 
 
 
