@@ -32,7 +32,7 @@ analisisDataset/
 │ └── chart2_negeri_vs_swasta_top10.png
 │
 ├── scripts/
-│ └── make_charts.py
+│ └── makeCharts.py
 │
 ├── src/
 │ ├── analysis/
@@ -106,6 +106,7 @@ Dosen Pengampu: Rini Mayasari, M.kom
 ### 🔗 Repositori
 
 **[📦 GitHub Repository]([https://github.com/dhafazaidan/analisisDataset-Komas-SMP-Komputer])**
+
 
 
 
